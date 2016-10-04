@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loja de Motos</string>
+    <string name="pergunta">O que achou dessa moto?</string>
+    <string name="visita">Agende um dia de visita</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="data">Data</string>
+    <string name="horario">Horário</string>
+</resources>

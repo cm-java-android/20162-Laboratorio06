@@ -47,7 +47,7 @@ public class AdaptadorImagens extends BaseAdapter {
         ImageView imagem = new ImageView(contexto);
 
         imagem.setImageResource(minhasIdsImagem[i]);
-        imagem.setLayoutParams(new Gallery.LayoutParams(150,100));
+        imagem.setLayoutParams(new Gallery.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,400));
         imagem.setScaleType(ImageView.ScaleType.FIT_XY);
         imagem.setBackgroundResource(itensMinhaGaleria);
 
